@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I'm 23 years old and I'm studying applied mathematics and computer science in an engineering school in Paris.  
 * :school: My school : [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)  
 * :airplane: Erasmus : [KTH in Stockholm](https://www.kth.se/en) with courses below :    
+
   * [Statistical Machine Learning](https://kth.instructure.com/courses/26872)
   * [Project Course in Scientific Computing](https://www.kth.se/social/course/SF2567/)
   * [The Finite Element Method](https://www.kth.se/student/kurser/kurs/SF2561?l=en)

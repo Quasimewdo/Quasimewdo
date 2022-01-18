@@ -59,4 +59,6 @@ I'm 23 years old and I'm studying applied mathematics and computer science in an
   * [Fake News](https://github.com/Quasimewdo/Fake-news) : dissemination of fake news in a population of individuals and media organizations
 
 ### Statistics
-![Quasimewdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quasimewdo&show_icons=true&theme=radical)
+![Quasimewdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quasimewdo&show_icons=true&include_all_commits=true)   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasimewdo&hide=html)](https://github.com/quasimewdo/github-readme-stats)

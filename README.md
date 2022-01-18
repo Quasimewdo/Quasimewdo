@@ -57,3 +57,6 @@ I'm 23 years old and I'm studying applied mathematics and computer science in an
 * **Others**
   * [Smart Car](https://github.com/Quasimewdo/SmartCar) : automatisation of Arduino Smart Car
   * [Fake News](https://github.com/Quasimewdo/Fake-news) : dissemination of fake news in a population of individuals and media organizations
+
+### Statistics
+![Quasimewdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quasimewdo&show_icons=true&theme=radical)

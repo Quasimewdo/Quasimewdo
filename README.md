@@ -50,6 +50,7 @@ I'm 23 years old and I'm studying applied mathematics and computer science in an
   * [Australian Weather](https://github.com/Quasimewdo/Australian-Weather) : analysis of Australian weather using statistical method written in R
   * [Classification MNIST](https://github.com/Quasimewdo/StatisticalClassification) : classifier of handwritten digit recognition 
   * [Blackjack](https://github.com/Quasimewdo/BlackJack) : use reinforcement learning to train an agent to play blackjack
+  * [Neural Network](https://github.com/Quasimewdo/DD2437NeuralNetwork) : various lab of Artificial Neural Networks and Deep Architectures
 * **Games**
   * [Sherlock13](https://github.com/Quasimewdo/Sherlock13) : an online game in C language with SDL2 graphics for 4 players
   * [Post-World](https://github.com/Quasimewdo/Post-world) : a malfunctioning 3D FPS game written in C++, using SDL2 and OPENGL
@@ -61,5 +62,4 @@ I'm 23 years old and I'm studying applied mathematics and computer science in an
 
 ### :bar_chart: Statistics
 ![Quasimewdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quasimewdo&show_icons=true&include_all_commits=true)   
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasimewdo&hide=html)](https://github.com/quasimewdo/github-readme-stats)

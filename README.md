@@ -63,3 +63,4 @@ I'm 23 years old and I'm studying applied mathematics and computer science in an
 ### :bar_chart: Statistics
 ![Quasimewdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=quasimewdo&show_icons=true&include_all_commits=true)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quasimewdo&hide=html)](https://github.com/quasimewdo/github-readme-stats)
+

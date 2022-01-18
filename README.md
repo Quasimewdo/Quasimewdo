@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :blush: About Me   
 
-I'm 23 years old and I'm studying applied mathematics and computer science in an engineering school in Paris.  
+I'm 23 years old and I'm studying applied mathematics and computer science in an engineering school in Paris.   I am looking for an end-of-study internship of 6 months in Data Science from February 2022.
 * :school: My school : [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)  
 * :airplane: Erasmus : [KTH in Stockholm](https://www.kth.se/en) with courses below :    
 
@@ -25,6 +25,10 @@ I'm 23 years old and I'm studying applied mathematics and computer science in an
   * [Project Course in Scientific Computing](https://www.kth.se/social/course/SF2567/)
   * [The Finite Element Method](https://www.kth.se/student/kurser/kurs/SF2561?l=en)
   * [Artificial Neural Networks and Deep Architectures](https://www.kth.se/student/kurser/kurs/DD2437?l=en)
+
+* :mag_right: Interests : Statistics, Machine Learning, Data Science
+* :art: Hobbies : Drawing, HIIT
+* :ab: Languages : French, English, Chinese
 
 ### :globe_with_meridians: Programming languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
@@ -49,6 +53,7 @@ I'm 23 years old and I'm studying applied mathematics and computer science in an
   * [Sherlock13](https://github.com/Quasimewdo/Sherlock13) : an online game in C language with SDL2 graphics for 4 players
   * [Post-World](https://github.com/Quasimewdo/Post-world) : a malfunctioning 3D FPS game written in C++, using SDL2 and OPENGL
   * [Calcul Mental](https://github.com/Quasimewdo/CalculMental) : a mental calculation game for children written in MIPS
+  * [Knapsack](https://github.com/Quasimewdo/knapsack-game) : Godot 3D game with ENet network server
 * **Others**
   * [Smart Car](https://github.com/Quasimewdo/SmartCar) : automatisation of Arduino Smart Car
   * [Fake News](https://github.com/Quasimewdo/Fake-news) : dissemination of fake news in a population of individuals and media organizations

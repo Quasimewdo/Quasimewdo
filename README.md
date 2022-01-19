@@ -46,11 +46,13 @@ I'm 23 years old and I'm studying applied mathematics and computer science in an
   * [FFT - Fast Multiplication](https://github.com/Quasimewdo/fft-fast-multiplication) : implementation of Schönhage–Strassen algorithm in MATLAB  
   * [Model-Developpement-Bacteries](https://github.com/Quasimewdo/Model-Developpement-Bacteries) : analysis of differential equations about bacteria development using Python  
   * [SIDARTHE Model COVID-19 in Italy](https://github.com/Quasimewdo/SIDARTHE-COVID) : analysis of evolution of COVID-19 in Italy usng Matlab
+  * [El Nino](https://www.polytech.sorbonne-universite.fr/sites/default/files/2020-02/Poster%20El%20Nino%20A4%204_0.pdf) : modeling El Nino phenomenon
 * **Statistics Machine Learning**
   * [Australian Weather](https://github.com/Quasimewdo/Australian-Weather) : analysis of Australian weather using statistical method written in R
   * [Classification MNIST](https://github.com/Quasimewdo/StatisticalClassification) : classifier of handwritten digit recognition 
   * [Blackjack](https://github.com/Quasimewdo/BlackJack) : use reinforcement learning to train an agent to play blackjack
   * [Neural Network](https://github.com/Quasimewdo/DD2437NeuralNetwork) : various lab of Artificial Neural Networks and Deep Architectures
+  * [Lucky Cart](https://www.polytech.sorbonne-universite.fr/sites/default/files/2021-06/poster-Lucky-Cart.pdf) : modeling a predictor using machine learning
 * **Games**
   * [Sherlock13](https://github.com/Quasimewdo/Sherlock13) : an online game in C language with SDL2 graphics for 4 players
   * [Post-World](https://github.com/Quasimewdo/Post-world) : a malfunctioning 3D FPS game written in C++, using SDL2 and OPENGL
